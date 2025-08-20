@@ -81,5 +81,4 @@ Got a question? Found something worth adding?
 Have another reason to contact me? You can find me on Twitter:  
 [@Plazmaz](https://twitter.com/Plazmaz)
 
-
 It's also worth noting that many of the original patterns used to find the filenames and examples of several secrets came from github-dorks, which is under tha [Apache 2.0 License](https://github.com/techgaun/github-dorks/blob/master/LICENSE). Also, for the sake of full disclosure, I am a maintainer on that project.
